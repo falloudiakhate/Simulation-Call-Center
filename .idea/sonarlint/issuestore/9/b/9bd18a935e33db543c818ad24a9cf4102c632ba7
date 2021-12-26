@@ -1,0 +1,26 @@
+
+j	java:S116"URename this field "final_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¤ñˆ
+r	java:S116 "]Rename this field "NUMBER_OF_SERVICES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¤”
+7
+java:S1170 "!Make this final field static too.(Ä¤”
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÃš
+V	java:S125-"<This block of commented-out lines of code should be removed.(ìâô‰ıÿÿÿÿ
+S
+java:S11970"8Move the array designator from the variable to the type.(Îµ‚àúÿÿÿÿ
+^
+java:S53613"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„×¥
+V	java:S125Q"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+O
+java:S2864["4Iterate over the "entrySet" instead of the "keySet".(œá°µûÿÿÿÿ
+M
+java:S1172k"2Remove this unused method parameter "timeHorizon".(ÿû¡çıÿÿÿÿ
+d	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡†ËÖ
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïõ„ÿÿÿÿÿ
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8îˆìŞ/
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ïˆìŞ/
+Q
+java:S1128	"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ïˆìŞ/
+g
+java:S2095("LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(·ô‡øÿÿÿÿ
